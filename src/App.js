@@ -1,5 +1,6 @@
 import "./App.css";
 import PersonalInfo from "./form";
+import jsPDF from "jspdf";
 
 const generatePdf = (selfinfo) => {
   const doc = new jsPDF();
