@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d16f5ca.css",
+    "main.js": "/static/js/main.e95ee9a0.js",
+    "static/js/303.1b363698.chunk.js": "/static/js/303.1b363698.chunk.js",
+    "static/js/262.b5ef1996.chunk.js": "/static/js/262.b5ef1996.chunk.js",
+    "static/js/806.7cb48c1a.chunk.js": "/static/js/806.7cb48c1a.chunk.js",
+    "static/js/787.61b62c3a.chunk.js": "/static/js/787.61b62c3a.chunk.js",
+    "static/media/certificate.png": "/static/media/certificate.c1973fad60fcf0f4fea9.png",
+    "static/media/languages.png": "/static/media/languages.781d0288b011bfddc45a.png",
+    "static/media/4727496.png": "/static/media/4727496.105e74ba922c1157abf0.png",
+    "static/media/activity.png": "/static/media/activity.34615e5e4f59027bc498.png",
+    "static/media/education.png": "/static/media/education.386fe7da3eb2a2be8d55.png",
+    "static/media/school.png": "/static/media/school.8a0bc6d62206edfd40d6.png",
+    "static/media/college.png": "/static/media/college.f40e4d448a40f779aa9f.png",
+    "static/media/programmer.png": "/static/media/programmer.f0727d4fcad66c17842f.png",
+    "static/media/project.png": "/static/media/project.dd0dc1a2df264fbf8944.png",
+    "static/media/6994770.png": "/static/media/6994770.4ba2c2fc771027f91aa5.png",
+    "static/media/track.png": "/static/media/track.af1804a0c4bd78679889.png",
+    "static/media/number-3.png": "/static/media/number-3.e8695ac28fd3638395b5.png",
+    "static/media/number-1.png": "/static/media/number-1.2bf225f74b70768aac3a.png",
+    "index.html": "/index.html",
+    "main.3d16f5ca.css.map": "/static/css/main.3d16f5ca.css.map",
+    "main.e95ee9a0.js.map": "/static/js/main.e95ee9a0.js.map",
+    "303.1b363698.chunk.js.map": "/static/js/303.1b363698.chunk.js.map",
+    "262.b5ef1996.chunk.js.map": "/static/js/262.b5ef1996.chunk.js.map",
+    "806.7cb48c1a.chunk.js.map": "/static/js/806.7cb48c1a.chunk.js.map",
+    "787.61b62c3a.chunk.js.map": "/static/js/787.61b62c3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d16f5ca.css",
+    "static/js/main.e95ee9a0.js"
+  ]
+}
